@@ -1,0 +1,17 @@
+# Data files
+open/
+submissions/
+
+# Sample code
+sample_code/
+
+# Zone.Identifier (WSL artifacts)
+*:Zone.Identifier
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Claude
+.claude/
